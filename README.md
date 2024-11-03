@@ -9,8 +9,8 @@ This project implements an autonomous drone control system using an Arduino plat
 - Real-time distance measurements for autonomous navigation
 
 ## Hardware Requirements
-- Arduino board (e.g., Arduino Uno)
-- Ultrasonic distance sensors (e.g., HC-SR04)
+- Arduino board (Arduino Uno)
+- Ultrasonic distance sensors (HC-SR04)
 - WS2812 LED strip (or similar)
 - Connecting wires and breadboard
 
